@@ -1,5 +1,5 @@
 # SUMMARY GENERATOR FROM URL LINK 
- (SCREENSHOTS AND FLOWCHART INCLUDED)
+ (SCREENSHOTS INCLUDED)
 A machine learning end to end flask web app for summary generator created using NLTK,flask.
 The project uses libraries like : <br />
 Flask <br />
@@ -8,7 +8,7 @@ beautifulsoup <br />
 NLTK <br />
 
 ### LET'S TALK ABOUT Summary generator <br />
-This summary generator include accesing the data of the URL link by using urllib3 library and then scraping the data on the web page using beautiful soup.
+This summary generator include accesing the data of the URL link by using urllib3 library and then scraping the data on the web page using urllib3 with the help of beautiful soup.it then uses nltk lib to clean the data to get rid of the remove stopwords and punctuation marks then calculates the word frequencies and sentence scores to generate the summary.
 
 
 The deployment is done using FLASK,HEROKU.
