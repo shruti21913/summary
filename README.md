@@ -1,4 +1,5 @@
 # SUMMARY GENERATOR FROM URL LINK 
+using web scraping
  (SCREENSHOTS INCLUDED)
 A machine learning end to end flask web app for summary generator created using NLTK,flask.
 The project uses libraries like : <br />
